@@ -24,6 +24,7 @@ Working directory / staging Area / Repository
     - (ls -al / ls -a / ls -l)
     - *git status*
     - git add sample.txt
+    - *git status*
     - git config --global user.email "you@example.com"
     - git config --global user.name "username"
     - ese 누른후 :wq
