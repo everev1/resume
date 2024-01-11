@@ -40,3 +40,7 @@ Working directory / staging Area / Repository
     - git clone https://github.com/everev1/study
  
 상위 폴더 하나에만  git init 하면 됨 하위 폴더에도 하면 꼬인다.
+
+- git remote add origin remote_repo_url
+    - origin: 원격 저장소 별칭
+    - remote_repo_url: 주소
