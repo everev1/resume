@@ -27,5 +27,5 @@ Working directory / staging Area / Repository
     - git config --global user.email "you@example.com"
     - git config --global user.name "username"
     - ese 누른후 :wq
-    - git commit -m "first commit" // 상태확인 항상 하기
-    - *git status*
+    - git commit -m "first commit" 
+    - *git status*   // 상태확인 항상 하기
