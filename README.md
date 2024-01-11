@@ -22,8 +22,10 @@ Working directory / staging Area / Repository
 - VS Code
     - git init
     - (ls -al / ls -a / ls -l)
-    - git status
+    - *git status*
     - git add sample.txt
     - git config --global user.email "you@example.com"
     - git config --global user.name "username"
-
+    - ese 누른후 :wq
+    - git commit -m "first commit" // 상태확인 항상 하기
+    - *git status*
