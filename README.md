@@ -5,4 +5,5 @@
     2. staging Area
     3. Repository
 
+**★★★ add commit push**
   
