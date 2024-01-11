@@ -38,3 +38,5 @@ Working directory / staging Area / Repository
 
 - push commit add (VS code)
     - git clone https://github.com/everev1/study
+ 
+상위 폴더 하나에만  git init 하면 됨 하위 폴더에도 하면 꼬인다.
