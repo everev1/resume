@@ -44,3 +44,10 @@ Working directory / staging Area / Repository
 - git remote add origin remote_repo_url
     - origin: 원격 저장소 별칭
     - remote_repo_url: 주소
+
+
+
+-나뭇가지
+    - git branch [name]
+    - git push origin beomsu // 테스트 서버 만듬
+    - pull request // merge 
