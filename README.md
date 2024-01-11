@@ -32,5 +32,9 @@ Working directory / staging Area / Repository
     - *git status*   // 상태확인 항상 하기
     - git remote add origin https://github.com/everev1/study.git
 
+- PULL vs clone
+    - clone: 내용은 있지만 저장소에 아무것도 없을때(레퍼지토리가 아예 없을 때) git 에 올려놓은 내용을 그대로 복제한다.
+    - pull: 저장소(집 컴)에 자료가 있지만 내용 업데이트가 안됨. 싸피컴에서 공부하여 업데이트한 내용을 git pull로 땡겨와서 집 컴 문서를 업데이트한다.
+
 - push commit add (VS code)
-    - 
+    - git clone https://github.com/everev1/study
