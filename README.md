@@ -30,3 +30,4 @@ Working directory / staging Area / Repository
     - ese 누른후 :wq
     - git commit -m "first commit" 
     - *git status*   // 상태확인 항상 하기
+    - git remote add origin https://github.com/everev1/study.git
