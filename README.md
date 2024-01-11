@@ -19,7 +19,7 @@ Working directory / staging Area / Repository
 로컬(내컴퓨터) / 스테이지(무대) / 저장소(깃허브)
 
 
-- VS Code
+- add commit push (VS Code)
     - git init
     - (ls -al / ls -a / ls -l)
     - *git status*
@@ -31,3 +31,6 @@ Working directory / staging Area / Repository
     - git commit -m "first commit" 
     - *git status*   // 상태확인 항상 하기
     - git remote add origin https://github.com/everev1/study.git
+
+- push commit add (VS code)
+    - 
