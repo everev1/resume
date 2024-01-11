@@ -5,13 +5,13 @@
     2. staging Area
     3. Repository
 
-**★★★ add commit push**
+**★★★ add commit push** 순서 중요
 
 *add*    내 컴퓨터 파일을 스테이지에 추가한다
 
 commit    스테이지에 올라간 파일에 쪽지를 적는다
 
-*push*    스테이지에 올라간 쪽지 파일을 깃허브에 올린다
+*push*    스테이지에 올라간 쪽지 파일을 저장소에 밀어 넣는다
 
 
 Working directory / staging Area / Repository
