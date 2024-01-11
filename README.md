@@ -18,3 +18,10 @@ Working directory / staging Area / Repository
 
 로컬(내컴퓨터) / 스테이지(무대) / 저장소(깃허브)
 
+
+- VS Code
+    - git init
+    - (ls -al / ls -a / ls -l)
+    - git status
+    - git add sample.txt
+
