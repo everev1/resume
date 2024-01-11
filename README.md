@@ -8,9 +8,13 @@
 **★★★ add commit push**
 
 *add*    내 컴퓨터 파일을 스테이지에 추가한다
+
 commit    스테이지에 올라간 파일에 쪽지를 적는다
+
 *push*    스테이지에 올라간 쪽지 파일을 깃허브에 올린다
 
+
 Working directory / staging Area / Repository
+
 로컬(내컴퓨터) / 스테이지(무대) / 저장소(깃허브)
 
