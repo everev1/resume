@@ -6,6 +6,7 @@
     3. Repository
 
 **★★★ add commit push**
+
 *add*    내 컴퓨터 파일을 스테이지에 추가한다
 commit    스테이지에 올라간 파일에 쪽지를 적는다
 *push*    스테이지에 올라간 쪽지 파일을 깃허브에 올린다
