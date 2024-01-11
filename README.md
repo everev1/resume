@@ -24,4 +24,6 @@ Working directory / staging Area / Repository
     - (ls -al / ls -a / ls -l)
     - git status
     - git add sample.txt
+    - git config --global user.email "you@example.com"
+    - git config --global user.name "username"
 
